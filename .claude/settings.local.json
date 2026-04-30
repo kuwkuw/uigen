@@ -2,8 +2,6 @@
   "permissions": {
     "allow": [
       "mcp__playwright__browser_navigate",
-      "Bash(npx playwright *)",
-      "Bash(curl *)",
       "mcp__playwright__browser_run_code",
       "mcp__playwright__browser_take_screenshot",
       "mcp__playwright__browser_click",
